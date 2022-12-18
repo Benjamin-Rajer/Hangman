@@ -1,2 +1,0 @@
-CURRENT PROBLEMS:
-- once you input a word, it cannot be hidden
